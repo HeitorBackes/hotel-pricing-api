@@ -1,4 +1,4 @@
-# Get-hotel-rooms-API 🏨📊
+# Hotel Pricing API 🏨📊
 
 Uma API Flask leve, rápida e otimizada para raspagem de dados de tarifas e disponibilidade de quartos diretamente do motor de reservas da **Omnibees**.
 
@@ -43,8 +43,8 @@ Certifique-se de ter o Python instalado em sua máquina.
 1. **Clone o repositório:**
 
    ```bash
-    git clone [https://github.com/HeitorBackes/Get-hotel-rooms-API.git](https://github.com/HeitorBackes/Get-hotel-rooms-API.git)
-    cd Get-hotel-rooms-API
+    git clone [https://github.com/HeitorBackes/hotel-pricing-api.git](https://github.com/HeitorBackes/hotel-pricing-api.git)
+    cd hotel-pricing-api
    ```
 
 2. Crie e ative um ambiente virtual (recomendado):
